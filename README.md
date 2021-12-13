@@ -1,10 +1,10 @@
 ### Hi! I'm Vlad 👋
 
-I'm a Full-Stack developer, motorcycle rider and a good person (some say).
-I currently work as a Senior Developer at First.
+I'm a passionate craftsman 🔧, creative 🎨 and perceptive 🔭 with a hands-on approach to problem-solving and a thirst for knowledge 🎓. Anything and everything that can be classified as technology 💻 fascinates me. I'm always open to new ideas and opportunities 🙏.
 
-- 🔭 I’m currently working on developer tools for [Libra](https://github.com/libra/libra)
+- 💼 I'm currently working as a Senior Developer at [First](https://firstdag.com).
+- 🔭 I’m currently working on Blockchain based Payments Systems.
 - 🌱 I’m always learning
-- 💬 Ask me about web development, mobile, life
+- 💬 Ask me about Websites, React, Vue, Angular, NodeJS, TypeScript, Python, life
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: The hashtag symbol is technically called an octothorpe.
